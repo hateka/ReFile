@@ -1,0 +1,10 @@
+This script can rewrite file.
+you setting file type what you want to rewrite.
+'pre' is changed to 'post'.
+
+my %str = (
+    'pre' => 'preline',
+    'post' => 'postline'
+   );
+
+you have to enter word or line.
